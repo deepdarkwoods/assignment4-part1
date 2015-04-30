@@ -1,5 +1,0 @@
-
-
-Start: Tue, 28 Apr 2015 11:57:00 -0800
-End: Tue, 28 Apr 2015 13:03:00 -0800
-Tasks: Created Repo, Read through Assignment, Created Initial Files
